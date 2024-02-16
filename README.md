@@ -16,7 +16,12 @@ Death count by continent
 A high level look at the global statistics
 
 ## Analysis
-Despite having a lower contraction rate, Mexico's mortality rate seems to surpass, China, India, the United States and the United Kingddom. This may be attributed to Mexico's Safe Distance campaign having an impact in reducing the contraction rate, but not impacting the proportion of hospitalized and deceased patients. 
+1) Despite having a lower contraction rate, Mexico's mortality rate seems to surpass, China, India, the United States and the United Kingddom. This may be attributed to Mexico's Safe Distance campaign having an impact in reducing the contraction rate, but not impacting the proportion of hospitalized and deceased patients. 
 
 Futhermore, another reason could be the saturation of hospital and intensive care units required to deal with the high occupancy of patients. This would exist in both private and public institutions. 
 
+2) The U.S.'s contraction rate as well as death count seem to be overshadow a lot of other wealthy countries. This may be attributed to the U.S.'s difficulity in distributing vaccinations in parts of the country for one reason another. A big factor in this issue is the politiciziation of the public health's response to the pandemic.
+
+Futhermore, the U.S's resistance to the public health's response might have a large role in the high contraction and mortality rates. When considering the population size of the U.S, the statistics are astonishing.
+
+##Conclusion
