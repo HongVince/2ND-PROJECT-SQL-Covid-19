@@ -25,7 +25,7 @@ The agenda of this project is to gather insight into Covid-19 deaths to identify
 
 | Column Name | | Description |
 | --------- |  | --------- |
-| Continent | 
+| Continent | | Testing |
 | Location | 
 | Date | 
 | Population | 
