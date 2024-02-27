@@ -25,18 +25,18 @@ The agenda of this project is to gather insight into Covid-19 deaths to identify
 
 | Column Name  | Description | Data Type |
 | ---------   | --------- | --------- |
-| Continent |  Name of Continent | VARCHAR(30) |
-| Location |  Name of Country | VARCHAR(30) |
+| Continent |  Name of continent | VARCHAR(30) |
+| Location |  Name of country | VARCHAR(30) |
 | Date | Format: YYYY-MM-DD HH:MI:SS | DATETIME |
-| Population | Population by continent and location | INT |
-| Total Cases | Sum of Cases by continent and location | INT |
-| New Cases | 
-| Total Deaths | 
-| New Deaths| 
-| Total Cases Per Million | 
-| New Cases Per Million | 
-| Total Death Per Million | 
-| New Deaths Per Million |
+| Population | Population total | INT |
+| Total Cases | As the name suggests | INT |
+| New Cases | Number of new cases | INT |
+| Total Deaths | As the name suggests | INT |
+| New Deaths| | As the name suggests | INT |
+| Total Cases Per Million | As the name suggests | INT |
+| New Cases Per Million | As the name suggests | INT |
+| Total Death Per Million | As the name suggests | INT |
+| New Deaths Per Million | As the name suggests | INT |
 
 
 ## High Level Findings
