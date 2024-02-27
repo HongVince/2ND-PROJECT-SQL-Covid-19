@@ -58,11 +58,17 @@ Using the sum of these statistics to calculate percentages with the intention of
 
 ## Approach Used
 
-1) Data Cleaning: Involves the inspection of data to make sure they are not NULL, and are not missing.
+1) **Data Cleaning:** Involves the inspection of data to make sure they are not NULL, and are not missing.
 
    a) Building a database
    b) Creating and table to insert the data
 
+2) Engineering New Features
+   a) Creating a CTE that illustrates the ratio of a population to vaccination rates
+   b) Creating a TEMP Table to insert the data centering around population to vaccination ratio
+   c) Creating various views to implement into Tableau for visualization and analysis
+
+3) Exploratory Data Analysis: Done to address the keypoints mentioned at the very top of this README.
 
 ## High Level Findings
 Despite having a lower contraction rate, Mexico's mortality rate seems to surpass, China, India, the United States and the United Kingddom. This may be attributed to Mexico's Safe Distance campaign having an impact in reducing the contraction rate, but not impacting the proportion of hospitalized and deceased patients.
