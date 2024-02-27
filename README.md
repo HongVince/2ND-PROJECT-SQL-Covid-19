@@ -56,6 +56,14 @@ This analysis aims to illustrate Covid-19's affect on specific populations aroun
 
 Using the sum of these statistics to calculate percentages with the intention of uncovering the ratio of a population and one of the totals mentioned above.
 
+## Approach Used
+
+1) Data Cleaning: Involves the inspection of data to make sure they are not NULL, and are not missing.
+
+   a) Building a database
+   b) Creating and table to insert the data
+
+
 ## High Level Findings
 Despite having a lower contraction rate, Mexico's mortality rate seems to surpass, China, India, the United States and the United Kingddom. This may be attributed to Mexico's Safe Distance campaign having an impact in reducing the contraction rate, but not impacting the proportion of hospitalized and deceased patients.
 Futhermore, another reason could be the saturation of hospital and intensive care units required to deal with the high occupancy of patients. This would exist in both private and public institutions. 
