@@ -38,6 +38,13 @@ The agenda of this project is to gather insight into Covid-19 deaths to identify
 | Total Death Per Million | As the name suggests | NVARCHAR(255), NULL |
 | New Deaths Per Million | As the name suggests | NVARCHAR(255), NULL |
 
+## Analysis List
+
+### 1) Continent and Location Analysis
+
+Conduct analysis on the dataset to illustrate the different continents and countries to understand the areas of the world that are affected the most.
+
+
 
 ## High Level Findings
 Despite having a lower contraction rate, Mexico's mortality rate seems to surpass, China, India, the United States and the United Kingddom. This may be attributed to Mexico's Safe Distance campaign having an impact in reducing the contraction rate, but not impacting the proportion of hospitalized and deceased patients.
