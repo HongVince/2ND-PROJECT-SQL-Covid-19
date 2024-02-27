@@ -25,18 +25,18 @@ The agenda of this project is to gather insight into Covid-19 deaths to identify
 
 | Column Name  | Description | Data Type |
 | ---------   | --------- | --------- |
-| Continent |  Name of continent | VARCHAR(30) |
-| Location |  Name of country | VARCHAR(30) |
-| Date | Format: YYYY-MM-DD HH:MI:SS | DATETIME |
-| Population | Population total | INT |
-| Total Cases | As the name suggests | INT |
-| New Cases | Number of new cases | INT |
-| Total Deaths | As the name suggests | INT |
-| New Deaths| | As the name suggests | INT |
-| Total Cases Per Million | As the name suggests | INT |
-| New Cases Per Million | As the name suggests | INT |
-| Total Death Per Million | As the name suggests | INT |
-| New Deaths Per Million | As the name suggests | INT |
+| Continent |  Name of continent | NVARCHAR(255), NULL |
+| Location |  Name of country | NVARCHAR(3255), NULL |
+| Date | Format: YYYY-MM-DD HH:MI:SS | DATETIME, NULL |
+| Population | Population total | FLOAT, NULL |
+| Total Cases | As the name suggests | NVARCHAR(255), NULL |
+| New Cases | Number of new cases | FLOAT, NULL |
+| Total Deaths | As the name suggests | NVARCHAR(255), NULL |
+| New Deaths| | As the name suggests | FLOAT, NULL |
+| Total Cases Per Million | As the name suggests | NVARCHAR(255), NULL |
+| New Cases Per Million | As the name suggests | FLOAT, NULL |
+| Total Death Per Million | As the name suggests | NVARCHAR(255), NULL |
+| New Deaths Per Million | As the name suggests | NVARCHAR(255), NULL |
 
 
 ## High Level Findings
