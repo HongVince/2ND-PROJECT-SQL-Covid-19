@@ -63,14 +63,27 @@ Using the sum of these statistics to calculate percentages with the intention of
    a) Building a database
    b) Creating and table to insert the data
 
-2) Engineering New Features
+2) **Engineering New Features**
    a) Creating a CTE that illustrates the ratio of a population to vaccination rates
    b) Creating a TEMP Table to insert the data centering around population to vaccination ratio
    c) Creating various views to implement into Tableau for visualization and analysis
 
-3) Exploratory Data Analysis: Done to address the keypoints mentioned at the very top of this README.
+3) **Exploratory Data Analysis:** Done to address the keypoints mentioned at the very top of this README.
 
-## High Level Findings
+## Questions Answered
+
+1) What is the continent with the highest death rate?
+2) What is the country with the higehst death rate?
+3) What is the ratio between a country's population and vaccination rate?
+4) What is the percentage of a population that contracted covid?
+5) What country had the higehst infection rate?
+6) What is the likelihood of dying in a specific country
+7) What are the countries with the highest infection rates?
+8) What are each countriy's death count?
+9) What is the ratio between total cases against total deaths?
+
+
+## Conclusions
 Despite having a lower contraction rate, Mexico's mortality rate seems to surpass, China, India, the United States and the United Kingddom. This may be attributed to Mexico's Safe Distance campaign having an impact in reducing the contraction rate, but not impacting the proportion of hospitalized and deceased patients.
 Futhermore, another reason could be the saturation of hospital and intensive care units required to deal with the high occupancy of patients. This would exist in both private and public institutions. 
 
