@@ -23,13 +23,13 @@ The agenda of this project is to gather insight into Covid-19 deaths to identify
 
 ## About Data
 
-| Column Name  | Description |
-| ---------   | --------- |
-| Continent |  Testing |
-| Location | 
-| Date | 
-| Population | 
-|Total Cases | 
+| Column Name  | Description | Data Type |
+| ---------   | --------- | --------- |
+| Continent |  Name of Continent | VARCHAR(30) |
+| Location |  Name of Country | VARCHAR(30) |
+| Date | Format: YYYY-MM-DD HH:MI:SS | DATETIME |
+| Population | Population by continent and location | INT |
+| Total Cases | Sum of Cases by continent and location | INT |
 | New Cases | 
 | Total Deaths | 
 | New Deaths| 
