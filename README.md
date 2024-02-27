@@ -32,7 +32,7 @@ The agenda of this project is to gather insight into Covid-19 deaths to identify
 | Total Cases | As the name suggests | NVARCHAR(255), NULL |
 | New Cases | Number of new cases | FLOAT, NULL |
 | Total Deaths | As the name suggests | NVARCHAR(255), NULL |
-| New Deaths| | As the name suggests | FLOAT, NULL |
+| New Deaths| As the name suggests | FLOAT, NULL |
 | Total Cases Per Million | As the name suggests | NVARCHAR(255), NULL |
 | New Cases Per Million | As the name suggests | FLOAT, NULL |
 | Total Death Per Million | As the name suggests | NVARCHAR(255), NULL |
