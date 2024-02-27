@@ -40,11 +40,21 @@ The agenda of this project is to gather insight into Covid-19 deaths to identify
 
 ## Analysis List
 
-### 1) Continent and Location Analysis
+### 1) Continent, Location
 
 Conduct analysis on the dataset to illustrate the different continents and countries to understand the areas of the world that are affected the most.
 
+### 2) Date
 
+This analysis centers around the death rate over time - from the peak to the lowest.
+
+### 3) Population Analysis
+
+This analysis aims to illustrate Covid-19's affect on specific populations around the world, with the intention of discovering rates such as death, infection, contraction, etc.
+
+### 4) Total - Cases, Deaths, Cases Per Million and Deaths Per Million
+
+Using the sum of these statistics to calculate percentages with the intention of uncovering the ratio of a population and one of the totals mentioned above.
 
 ## High Level Findings
 Despite having a lower contraction rate, Mexico's mortality rate seems to surpass, China, India, the United States and the United Kingddom. This may be attributed to Mexico's Safe Distance campaign having an impact in reducing the contraction rate, but not impacting the proportion of hospitalized and deceased patients.
