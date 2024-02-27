@@ -1,12 +1,14 @@
-# Findings and Observations
+# Covid-19 Deaths
 
     Dataset: https://ourworldindata.org/covid-deaths 
     Years Covered: 2020-2023
 
-## Synopsis
-In this project, I collect Covid-19 data from Our World in Data to export into SQL for analysis. After demonstrating my ability to develop CTEs, Temp Tables and Views, I export my findings into Tableau for visualization and further analysis. 
+## About
 
-## Some Key Points
+This project explores Covid-19 data to understand the pandemic's effect on a global scale, then narrowing it down to illustrate countries most effected. More specifically, exploring this data will shed light onto the vaccination percentage, contraction rate, death rates, infection rates and death count.
+
+## Key Points Mentioned Above
+
 - The vaccination percentage of a continent's population 
 - The contraction percentage of a continent's population
 - The liklihood of death by country
@@ -14,6 +16,14 @@ In this project, I collect Covid-19 data from Our World in Data to export into S
 - Death count by country
 - Death count by continent
 - A high level look at the global statistics
+
+## Purpose of This Project
+
+The agenda of this project is to gather insight into Covid-19 deaths to identify factors affecting different countries/populations.
+
+##About Data
+
+
 
 ## High Level Findings
 Despite having a lower contraction rate, Mexico's mortality rate seems to surpass, China, India, the United States and the United Kingddom. This may be attributed to Mexico's Safe Distance campaign having an impact in reducing the contraction rate, but not impacting the proportion of hospitalized and deceased patients.
