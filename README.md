@@ -21,8 +21,8 @@ This project explores Covid-19 data to understand the pandemic's effect on a glo
 
 The agenda of this project is to gather insight into Covid-19 deaths to identify factors affecting different countries/populations.
 
-##About Data
-
+## About Data
+|Continent| || || ||
 
 
 ## High Level Findings
