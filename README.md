@@ -23,8 +23,8 @@ The agenda of this project is to gather insight into Covid-19 deaths to identify
 
 ## About Data
 
-| Column Name |
-| --------- |
+| Column Name | | Description |
+| --------- |  | --------- |
 | Continent | 
 | Location | 
 | Date | 
