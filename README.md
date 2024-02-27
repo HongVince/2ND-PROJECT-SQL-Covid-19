@@ -22,7 +22,7 @@ This project explores Covid-19 data to understand the pandemic's effect on a glo
 The agenda of this project is to gather insight into Covid-19 deaths to identify factors affecting different countries/populations.
 
 ## About Data
-|Continent| || || ||
+| Continent | | Location | | Date | | Population | |Total Cases | | New Cases | | Total Deaths | |New Deaths| | Total Cases Per Million | | New Cases Per Million | | Total Death Per Million | | New Deaths Per Million |
 
 
 ## High Level Findings
