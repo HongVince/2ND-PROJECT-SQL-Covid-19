@@ -42,11 +42,11 @@ The agenda of this project is to gather insight into Covid-19 deaths to identify
 
 ### 1) Continent, Location
 
-Conduct analysis on the dataset to illustrate the different continents and countries to understand the areas of the world that are affected the most.
+Conduct analysis on the dataset of the different continents and countries to understand the areas that are affected the most.
 
 ### 2) Date
 
-This analysis centers around the death rate over time - from the peak to the lowest.
+This analysis centers around the death rate over time - from peak time to the lowest.
 
 ### 3) Population Analysis
 
@@ -54,7 +54,7 @@ This analysis aims to illustrate Covid-19's affect on specific populations aroun
 
 ### 4) Total - Cases, Deaths, Cases Per Million and Deaths Per Million
 
-Using the sum of these statistics to calculate percentages with the intention of uncovering the ratio of a population and one of the totals mentioned above.
+Using the sum of the data to calculate percentages with the intention of uncovering the ratio of a population and one of the totals mentioned above.
 
 ## Approach Used
 
@@ -77,13 +77,12 @@ Using the sum of these statistics to calculate percentages with the intention of
 3) What is the ratio between a country's population and vaccination rate?
 4) What is the percentage of a population that contracted covid?
 5) What country had the higehst infection rate?
-6) What is the likelihood of dying in a specific country
+6) What is the likelihood of dying in a specific country?
 7) What are the countries with the highest infection rates?
 8) What are each countriy's death count?
 9) What is the ratio between total cases against total deaths?
 
-
-## Conclusions
+## Observations
 Despite having a lower contraction rate, Mexico's mortality rate seems to surpass, China, India, the United States and the United Kingddom. This may be attributed to Mexico's Safe Distance campaign having an impact in reducing the contraction rate, but not impacting the proportion of hospitalized and deceased patients.
 Futhermore, another reason could be the saturation of hospital and intensive care units required to deal with the high occupancy of patients. This would exist in both private and public institutions. 
 
