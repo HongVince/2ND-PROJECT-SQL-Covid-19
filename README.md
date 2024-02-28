@@ -26,7 +26,7 @@ The agenda of this project is to gather insight into Covid-19 deaths to identify
 | Column Name  | Description | Data Type |
 | ---------   | --------- | --------- |
 | Continent |  Name of continent | NVARCHAR(255), NULL |
-| Location |  Name of country | NVARCHAR(3255), NULL |
+| Location |  Name of country | NVARCHAR(255), NULL |
 | Date | Format: YYYY-MM-DD HH:MI:SS | DATETIME, NULL |
 | Population | Population total | FLOAT, NULL |
 | Total Cases | As the name suggests | NVARCHAR(255), NULL |
