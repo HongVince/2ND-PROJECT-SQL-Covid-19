@@ -19,7 +19,7 @@ This project explores Covid-19 data to understand the pandemic's effect on a glo
 
 ## Purpose of This Project
 
-The agenda of this project is to gather insight into Covid-19 deaths to identify factors affecting different countries/populations.
+The agenda of this project is to gather insight into Covid-19 deaths to identify factors effecting different countries/populations.
 
 ## About Data
 
