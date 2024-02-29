@@ -56,7 +56,7 @@ This analysis aims to illustrate Covid-19's affect on specific populations aroun
 
 Using the sum of the data to calculate percentages with the intention of uncovering the ratio of a population and one of the totals mentioned above.
 
-## Approach Used
+## Approaches Used
 
 1) **Data Cleaning:** Involves the inspection of data to make sure they are not NULL, and are not missing.
 
